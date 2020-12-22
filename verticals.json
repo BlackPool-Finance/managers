@@ -8,3 +8,14 @@
       }
    ]
 }
+
+{
+   "vertical":"sorare",
+   "managers":[
+      {
+         "address":"0x84265C1652D6382b6244d958B193ef5895781D5A",
+         "nickname":"Maxmersch",
+         "verification":true
+      }
+   ]
+}
